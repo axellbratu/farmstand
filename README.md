@@ -1,6 +1,6 @@
 # farmstand
 
-Restful routes exercise using mongo with express.
+Restful routes using mongo with express.
 
 Templating using ejs.
 
